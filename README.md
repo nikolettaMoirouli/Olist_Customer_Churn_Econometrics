@@ -4,7 +4,7 @@
 Keeping customers happy and encouraging them to spend more are two of the biggest challenges in e-commerce. Using real transaction data from **Olist** (a large Brazilian online marketplace with 96,478 delivered orders across 93,358 unique customers from 2016 to 2018), this project combines **SQL** with **econometric models** in Python to answer three practical business questions:
 
 1. **Customer Churn & Dissatisfaction:** How much do late deliveries, long shipping times, and high shipping costs increase the chances that a customer leaves a bad (1–2 star) review?
-2. **Customer Spending & Payment Plans:** How do repeat purchases and paying in monthly credit card installments affect how much a customer spends overall (\(\ln(\text{Spend}_i)\)) and their chances of becoming a **Top 20%** spender?
+2. **Customer Spending & Payment Plans:** How do repeat purchases and paying in monthly credit card installments affect how much a customer spends overall and their chances of becoming a **Top 20%** spender?
 3. **Product Category Differences:** Which product categories bring in the most revenue, and how do delivery delays and customer dissatisfaction vary across different types of products?
 
 * **Dataset Source:** [Brazilian E-Commerce Public Dataset by Olist (Kaggle)](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
